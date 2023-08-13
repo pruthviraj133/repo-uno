@@ -1,0 +1,36 @@
+# Dependencies
+highlighter: rouge
+gems: [jekyll-paginate, jekyll-sitemap]
+plugins: [jekyll-paginate]
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: Through the looking glass
+tagline: zzz
+description: 'Insights, Concept Notes and research analytics using emerging technology for improving the Indian financial sector'
+url: 'https://pruthviraj133.github.io'
+baseurl: ''
+homepage_thumbnail: '/assets/homepage-thumbnail.jpg'
+
+author:
+    name:      'Pruthvi Raj'
+    linkedin:  'https://linkedin.com/in/pruthvirajbhat'
+    twitter:   'https://twitter.com/meteorVector'
+    gh:        'https://github.com/pruthviraj133'
+
+paginate:      5
+
+# Custom vars
+version:       2.1.0
+
+github:
+    repo:      'https://github.com/pruthviraj133'
+
+exclude:
+    - _posts/WORK_IN_PROGRESS
+
+markdown: kramdown
+
+profile-picture: assets/profile.png

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+
+    <!-- Full-size image overlay -->
+    <div id="fullsize-overlay" class="fullsize-overlay" onclick="closeFullSizeOverlay()">
+      <img id="fullsize-image" src="" alt="Full size image">
+    </div>
+    <script>
+      function openFullSizeOverlay(imgSrc) {
+        const fullSizeOverlay = document.getElementById('fullsize-overlay');
+        const fullSizeImage = document.getElementById('fullsize-image');
+  
+        fullSizeImage.src = imgSrc;
+        fullSizeOverlay.style.display = 'block';
+      }
+  
+      function closeFullSizeOverlay() {
+        const fullSizeOverlay = document.getElementById('fullsize-overlay');
+        fullSizeOverlay.style.display = 'none';
+      }
+
+      // Run this code after the entire page content has loaded
+      document.addEventListener('DOMContentLoaded', function() {
+        // Add click event listener to all images within post content
+        document.querySelectorAll('.post img').forEach((img) => {
+          img.style.cursor = 'pointer';
+          img.addEventListener('click', () => openFullSizeOverlay(img.src));
+        });
+      });
+    </script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </body>
+</html>
