@@ -20,7 +20,7 @@ Currently,
 ## Contact
 
 To discuss about the above stuff or any other inquiries, feel free to get in touch with me
-- Email: [pruthvirajbhat4@gmail.com](mailto:pruthvirajbhat4@gmail.com?Subject=Professional%20Services)
+- [Email](mailto:pruthvirajbhat4@gmail.com?Subject=Professional%20Services)
 
 Social Media Handles 
 - [LinkedIn](https://linkedin.com/in/pruthvirajbhat) 
