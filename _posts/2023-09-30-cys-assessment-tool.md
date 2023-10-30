@@ -2,7 +2,7 @@
 layout: post
 title: Cybersecurity Assessment Tool
 subtitle: Assessment tool
-tags: [survey]
+tags: [security]
 date: 30-09-2023
 mdate: editing lil bit on 20th
 ---

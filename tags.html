@@ -40,7 +40,7 @@ SimpleJekyllSearch({
         <li>
             <a class="black-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
-            </a>
+            </a> | <small>{{ post.date | date_to_string }}</small>
         </li>
         {% endfor %}
         {% assign pages_list = nil %}

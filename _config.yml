@@ -7,9 +7,9 @@ plugins: [jekyll-paginate]
 permalink: pretty
 
 # Setup
-title: Through the looking glass
+title: and return whence it came
 # tagline: 
-description: 'Insights, Concept Notes and research analytics using emerging technology for improving the Indian financial sector'
+description: 'Research, Analysis and Insights of interesting things'
 url: 'https://pruthviraj133.github.io'
 baseurl: ''
 homepage_thumbnail: '/assets/homepage-thumbnail.jpg'
