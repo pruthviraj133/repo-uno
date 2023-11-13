@@ -4,7 +4,6 @@ title: Women Street Vendor Survey
 subtitle: Survey Insights and Inference
 tags: [survey]
 date: 19-04-2023
-mdate: editing lil bit on 20th
 ---
 <span class="color-green">**Objective of the survey**</span>: How to avail formal banking services to female street vendors? Do they avail loans from banks? Do they use banking services?
 
