@@ -7,9 +7,9 @@ plugins: [jekyll-paginate]
 permalink: pretty
 
 # Setup
-title: Blogsite by Pruthvi Raj
+title: "Homing in" by Pruthvi Raj
 # tagline: 
-description: 'Research, Analysis and Insights of interesting things'
+description: 'My write-Ups'
 url: 'https://pruthviraj133.github.io'
 baseurl: ''
 homepage_thumbnail: '/assets/homepage-thumbnail.jpg'
