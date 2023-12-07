@@ -4,11 +4,12 @@ title: About Me
 ---
 
 ![much younger than this](/assets/profile.png#right){:height="235px" width="100px"}
-Certified CompTIA Security+
 
 Anna, please check my posts and get to know me yourself.
 
-![](/assets/SecurityPlus%20Logo%20Certified%20CE.png){:height="70px" width="70px"}
+Certified CompTIA Security+
+
+![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="90px"}
 
 <!-- Engineering graduate in Electronics and Communication. \
 A good grip/understanding on cyber security concepts.
