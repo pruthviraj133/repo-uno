@@ -9,7 +9,7 @@ Anna, please check my posts and get to know me yourself.
 
 Certified CompTIA Security+
 
-![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="90px"}
+![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="81px"}
 
 <!-- Engineering graduate in Electronics and Communication. \
 A good grip/understanding on cyber security concepts.
