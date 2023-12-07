@@ -9,7 +9,7 @@ Anna, please check my posts and get to know me yourself.
 
 Certified CompTIA Security+
 
-![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="81px"}
+![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="79px"}
 
 <!-- Engineering graduate in Electronics and Communication. \
 A good grip/understanding on cyber security concepts.
@@ -26,7 +26,7 @@ Currently,
 ## Contact
 
 To discuss about the above stuff or any other inquiries, feel free to get in touch with me
-- [Email](mailto:pruthvirajbhat4@gmail.com?Subject=Professional%20Services)
+- [Email](mailto:pruthviraj1397@gmail.com?Subject=133Website%20Professional%20Services)
 
 Social Media Handles 
 - [LinkedIn](https://linkedin.com/in/pruthvirajbhat) 

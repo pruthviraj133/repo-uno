@@ -7,7 +7,7 @@ plugins: [jekyll-paginate]
 permalink: pretty
 
 # Setup
-title: BLOGSITE by Pruthvi Raj
+title: BLoGSiTe by Pruthvi Raj
 # tagline: 
 description: 'My write-Ups'
 url: 'https://pruthviraj133.github.io'
