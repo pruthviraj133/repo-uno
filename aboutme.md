@@ -4,7 +4,7 @@ title: About Me
 ---
 ![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="79px"}
 
-<p style="text-align: center;" style="color: green;">CompTIA Security+ Certified</p>
+<p style="text-align: center; font-weight: bold; color: green;">CompTIA Security+ Certified</p>
 
 Activly upskilling and preparing for Practical Network Penetration Tester (PNPT) Certification (similar to OSCP)
 
