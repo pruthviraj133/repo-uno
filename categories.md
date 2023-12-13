@@ -86,7 +86,7 @@ title: Posts
 
 
 
-# Software Development
+<!-- # Software Development
 
 {% for post in site.posts %}
   {% for tag in post.tags %}
@@ -103,4 +103,4 @@ title: Posts
     {% break %}
     {% endif %}
   {% endfor %}
-{% endfor %}
+{% endfor %} -->
