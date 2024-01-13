@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Cybersecurity Assessment Tool
+thumbnail: /assets/cys-ass/cybersecurity-assessment-tool-upscaled.png
 tags: 
 - infosec-complaince
 - project
