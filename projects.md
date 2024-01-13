@@ -21,9 +21,6 @@ title: Projects
 }
 </style>
 
-
-# Project
-
 {% for post in site.posts %}
   {% for tag in post.tags %}
     {% if tag == "project" %}
