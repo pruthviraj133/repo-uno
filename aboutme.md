@@ -8,11 +8,18 @@ title: About Me
 
 Activly upskilling and preparing for Practical Network Penetration Tester (PNPT) Certification (similar to OSCP)
 
-Proven ability to implement and maintain security controls, monitor network activity for suspicious activity, and contribute to incident response efforts.
+Ensuring my fundamentals rock solid. Learning to be good at a lot of things - be it DFIR, analyst/engineer, pentesting or compliance.
 
-Involved in development of new Cybersecurity Assessment Framework for Indian Banking Sector Regulated Entities' self-assessment for risk profiling, maturity assessment and strategy reference.
+Making sure I'm expert at some things - DDoS or phishing or vulnerability anaylsis or ML-model-training.
 
-Also trying to get a hang of neural networks. Struggling with Assembly Language for exploit development. 
+Hopelessly trying to learn to play a ukulele.
+
+<!--
+Try Hard
+
+Involved in development of new Cybersecurity Assessment Framework for Indian Banking Sector Regulated Entities’ self-assessment for risk profiling, maturity assessment and strategy reference.
+
+Also trying to get a hang of neural networks. Struggling with Assembly Language for exploit development. -->
 
 ## Contact
 
