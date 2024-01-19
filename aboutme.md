@@ -23,10 +23,7 @@ Also trying to get a hang of neural networks. Struggling with Assembly Language 
 
 ## Contact
 
-To discuss about the above stuff or any other inquiries, feel free to get in touch with me
-[Email](mailto:pruthviraj1397@gmail.com?Subject=133Website%20Professional%20Services)
-
-Social Media Handles - [LinkedIn](https://linkedin.com/in/pruthvirajbhat) <> [Twitter](https://twitter.com/meteorVector) <> [GitHub](https://github.com/pruthviraj133) <> [Youtube?](https://images.squarespace-cdn.com/content/v1/610488441b59a654258a1cc7/f719c81e-c810-4e00-bd03-c02ea885e639/TransLogoG.jpg)
+[Email](mailto:pruthviraj1397@gmail.com?Subject=133Website%20Professional%20Services) <> [LinkedIn](https://linkedin.com/in/pruthvirajbhat) <> [Twitter](https://twitter.com/meteorVector) <> [GitHub](https://github.com/pruthviraj133) <> [Youtube?](https://images.squarespace-cdn.com/content/v1/610488441b59a654258a1cc7/f719c81e-c810-4e00-bd03-c02ea885e639/TransLogoG.jpg)
 
 
 <!-- Long time ago, when I was a noob
