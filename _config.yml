@@ -1,7 +1,9 @@
 # Dependencies
 highlighter: rouge
 gems: [jekyll-paginate, jekyll-sitemap]
-plugins: [jekyll-paginate]
+plugins: 
+- jekyll-paginate
+- jekyll-toc
 
 # Permalinks
 permalink: pretty
@@ -35,3 +37,22 @@ exclude:
 markdown: kramdown
 
 profile-picture: assets/profile.png
+
+# Table of Contents - configs
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+
+# _config.yml
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: true
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
