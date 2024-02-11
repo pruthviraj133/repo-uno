@@ -45,7 +45,6 @@ defaults:
     values:
       toc: true
 
-# _config.yml
 toc:
   min_level: 1
   max_level: 6
