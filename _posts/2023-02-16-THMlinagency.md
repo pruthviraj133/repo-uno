@@ -2,6 +2,7 @@
 layout: post
 title: TryHackMe - Linux Agency
 tags: [CTF]
+toc: true
 ---
 
 #### Linux Agency

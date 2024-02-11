@@ -43,7 +43,7 @@ defaults:
   - scope:
       path: ""
     values:
-      toc: true
+      toc: false
 
 toc:
   min_level: 1
