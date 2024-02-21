@@ -2,15 +2,15 @@
 layout: page
 title: About Me
 ---
+Pruthvi Raj, currently working as an associate focused on information security in a policy entity in banking and financial sector on emerging technologies.
+
 ![](/assets/SecurityPlus%20Logo%20Certified%20CE.png#center){:height="70px" width="79px"}
 
 <p style="text-align: center; font-weight: bold; color: green;">CompTIA Security+ Certified</p>
 
-Activly upskilling and preparing for Practical Network Penetration Tester (PNPT) Certification (similar to OSCP)
+Actively upskilling and preparing for Practical Network Penetration Tester (PNPT) Certification (similar to OSCP).
 
-Ensuring my fundamentals rock solid. Learning to be good at a lot of things - be it DFIR, analyst/engineer, pentesting or compliance.
-
-Making sure I'm expert at some things - DDoS or phishing or vulnerability anaylsis or ML-model-training.
+Ensuring my fundamentals rock solid. Learning to be good at a lot of things.
 
 Hopelessly trying to learn to play a ukulele.
 

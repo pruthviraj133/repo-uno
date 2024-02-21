@@ -9,9 +9,9 @@ plugins:
 permalink: pretty
 
 # Setup
-title: BLoGSiTe by Pruthvi Raj
+title: secure the collective
 # tagline: 
-description: 'my write ups, Infosec insights, byte-sized bites.'
+description: 'my infosec write ups, insights and byte-sized bites'
 url: 'https://pruthviraj133.github.io'
 baseurl: ''
 homepage_thumbnail: '/assets/homepage-thumbnail.jpg'
