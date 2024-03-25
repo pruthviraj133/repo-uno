@@ -9,5 +9,3 @@ for the jekyll code/design and and my personal content.
 For the time being I'm reserving all rights on everything inside the `_posts`
 folder. If you'd like to use my content for educational/non-profit purposes
 please get in touch with me, I'm usually happy to share :)
-
-
